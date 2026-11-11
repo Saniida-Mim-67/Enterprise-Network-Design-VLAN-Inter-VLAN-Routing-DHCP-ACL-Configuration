@@ -147,3 +147,4 @@ The repository includes:
 Successfully designed, configured, and tested a multi-VLAN enterprise network in Cisco Packet Tracer.
 
 The lab demonstrates departmental network segmentation, automatic IP address assignment, inter-VLAN routing, and traffic restrictions using extended ACLs.
+
