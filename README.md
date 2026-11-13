@@ -93,6 +93,13 @@ access-list 100 permit ip any any
 
 The ACL was applied inbound on Router subinterface GigabitEthernet0/2.20.
 
+### ACL Test Result
+
+- Sales-to-IT traffic was blocked.
+- The deny rule recorded 4 matches.
+- The permit rule recorded 17 matches.
+- Other permitted IP traffic was allowed.
+
 ## 8. Verification and Testing Results
 
 **Overall Result: Passed**
