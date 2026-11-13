@@ -151,6 +151,26 @@ The repository includes:
 ### DHCP Assignment
 ![Admin DHCP](screenshots/dhcp-admin.png)
 
+### Sales DHCP Assignment
+![Sales DHCP](screenshots/dhcp-sales.png)
+
+### Switch1 VLAN Verification
+![Switch1 VLAN](screenshots/switch1-vlan-verification.png)
+
+### Switch2 VLAN Verification
+![Switch2 VLAN](screenshots/switch2-vlan-verification.png)
+
+### Switch Trunk Verification
+![Switch1 Trunk](screenshots/switch1-trunk-verification.png)
+
+![Switch2 Trunk](screenshots/switch2-trunk-verification.png)
+
+### Inter-VLAN Connectivity
+![Inter-VLAN Ping](screenshots/inter-vlan-ping-admin-to-sales.png)
+
+### ACL Connectivity Test
+![Sales to IT Blocked](screenshots/acl-test-sales-to-it.png)
+
 ### Inter-VLAN Connectivity
 ![Inter-VLAN Ping](screenshots/inter-vlan-ping-admin-to-sales.png)
 
