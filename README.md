@@ -154,10 +154,9 @@ The repository includes:
 ### Sales DHCP Assignment
 ![Sales DHCP](screenshots/dhcp-sales.png)
 
-### Switch1 VLAN Verification
+### Switch VLAN Verification
 ![Switch1 VLAN](screenshots/switch1-vlan-verification.png)
 
-### Switch2 VLAN Verification
 ![Switch2 VLAN](screenshots/switch2-vlan-verification.png)
 
 ### Switch Trunk Verification
@@ -171,9 +170,6 @@ The repository includes:
 ### ACL Connectivity Test
 ![Sales to IT Blocked](screenshots/acl-test-sales-to-it.png)
 
-### Inter-VLAN Connectivity
-![Inter-VLAN Ping](screenshots/inter-vlan-ping-admin-to-sales.png)
-
 ### ACL Verification
 ![ACL Verification](screenshots/acl-verification.png)
 
@@ -182,4 +178,14 @@ The repository includes:
 Successfully designed, configured, and tested a multi-VLAN enterprise network in Cisco Packet Tracer.
 
 The lab demonstrates departmental network segmentation, automatic IP address assignment, inter-VLAN routing, and traffic restrictions using extended ACLs.
+
+## 13. Packet Tracer Project File
+
+The complete Cisco Packet Tracer simulation file is available in this repository.
+
+**Project File:** `enterprise-vlan-dhcp-acl-lab.pkt`
+
+[Download the Packet Tracer Lab](enterprise-vlan-dhcp-acl-lab.pkt)
+
+You can download and open this file using Cisco Packet Tracer to explore the network topology, VLAN configuration, inter-VLAN routing, DHCP services, and ACL implementation.
 
