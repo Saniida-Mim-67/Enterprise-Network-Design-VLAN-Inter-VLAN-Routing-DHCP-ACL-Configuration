@@ -173,19 +173,21 @@ The repository includes:
 ### ACL Verification
 ![ACL Verification](screenshots/acl-verification.png)
 
-## 12. Conclusion
 
-Successfully designed, configured, and tested a multi-VLAN enterprise network in Cisco Packet Tracer.
+## 12. Packet Tracer Project File
 
-The lab demonstrates departmental network segmentation, automatic IP address assignment, inter-VLAN routing, and traffic restrictions using extended ACLs.
-
-## 13. Packet Tracer Project File
-
-The complete Cisco Packet Tracer simulation file is available in this repository.
+The complete Cisco Packet Tracer simulation file is included in this repository.
 
 **Project File:** `enterprise-vlan-dhcp-acl-lab.pkt`
 
 [Download the Packet Tracer Lab](enterprise-vlan-dhcp-acl-lab.pkt)
 
 You can download and open this file using Cisco Packet Tracer to explore the network topology, VLAN configuration, inter-VLAN routing, DHCP services, and ACL implementation.
+
+## 13. Conclusion
+
+Successfully designed, configured, and tested a multi-VLAN enterprise network in Cisco Packet Tracer.
+
+The lab demonstrates departmental network segmentation, automatic IP address assignment, inter-VLAN routing, and traffic restrictions using extended ACLs.
+
 
