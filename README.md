@@ -135,12 +135,20 @@ After configuration, all four router subinterfaces showed an up/up status, and D
 
 The repository includes:
 
-- Network topology screenshot
-- Router subinterface verification
-- Switch VLAN and trunk verification
-- DHCP address assignment evidence
-- Inter-VLAN connectivity test evidence
-- ACL verification evidence
+### Network Topology
+![Network Topology](screenshots/topology_2.png)
+
+### Router Verification
+![Router Verification](screenshots/router-verification.png)
+
+### DHCP Assignment
+![Admin DHCP](screenshots/dhcp-admin.png)
+
+### Inter-VLAN Connectivity
+![Inter-VLAN Ping](screenshots/inter-vlan-ping-admin-to-sales.png)
+
+### ACL Verification
+![ACL Verification](screenshots/acl-verification.png)
 
 ## 12. Conclusion
 
